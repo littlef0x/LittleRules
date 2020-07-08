@@ -1,0 +1,5 @@
+# This is a supplement of https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist
+
+*://*.360kuai.com/*
+*://*.hotbak.net/*
+*://*.pai-hang-bang.com/*
