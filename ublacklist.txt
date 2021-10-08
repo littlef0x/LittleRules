@@ -6,3 +6,4 @@
 *://*.pai-hang-bang.com/*
 *://*.keomai.com/*
 *://*.bountysource.com/*
+*://*.tspweb.com/*
