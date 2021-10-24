@@ -2,8 +2,11 @@
 # address of this file: https://raw.githubusercontent.com/littlef0x/LittleRules/master/ublacklist.txt
 
 *://*.360kuai.com/*
+*://*.51wuxian.com/*
 *://*.bountysource.com/*
+*://*.esiyuan.com/*
 *://*.hotbak.net/*
+*://*.jiaokm.com/*
 *://*.keomai.com/*
 *://*.nnsbbs.com/*
 *://*.pai-hang-bang.com/*
