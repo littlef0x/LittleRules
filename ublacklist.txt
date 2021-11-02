@@ -4,6 +4,7 @@
 *://*.360kuai.com/*
 *://*.51wuxian.com/*
 *://*.bountysource.com/*
+*://*.cxybb.com/*
 *://*.esiyuan.com/*
 *://*.hotbak.net/*
 *://*.jiaokm.com/*
