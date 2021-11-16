@@ -9,6 +9,7 @@
 *://*.hotbak.net/*
 *://*.jiaokm.com/*
 *://*.keomai.com/*
+*://*langningpiano.com/*
 *://*.nnsbbs.com/*
 *://*.pai-hang-bang.com/*
 *://*.tspweb.com/*
