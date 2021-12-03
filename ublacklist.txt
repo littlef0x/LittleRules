@@ -6,6 +6,7 @@
 *://*.bountysource.com/*
 *://*.cxybb.com/*
 *://*.esiyuan.com/*
+*://*.haha.place/*
 *://*.hotbak.net/*
 *://*.jiaokm.com/*
 *://*.keomai.com/*
