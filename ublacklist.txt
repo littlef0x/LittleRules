@@ -13,5 +13,6 @@
 *://*.langningpiano.com/*
 *://*.nnsbbs.com/*
 *://*.pai-hang-bang.com/*
+*://*.qiaobuqiao.com/*
 *://*.tiaotiaoxie.com/*
 *://*.tspweb.com/*
